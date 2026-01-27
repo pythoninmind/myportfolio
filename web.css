@@ -1,4 +1,4 @@
-body, h1, p {
+body, h1, p, nav {
   margin: 0;
   padding: 0;
 }
@@ -17,6 +17,11 @@ p {
   margin-bottom: 10px;
 }
 h1 {
+  color: #fff;
+  font-size: 20px;
+  margin-bottom: 10px;
+}
+nav {
   color: #fff;
   font-size: 20px;
   margin-bottom: 10px;
